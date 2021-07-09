@@ -29,7 +29,7 @@
 
 * Windows:
   - Open command prompt in src folder
-  - Run server.bat ($ client.bat)
+  - Run client.bat ($ client.bat)
 
 ## How to exit the
 
